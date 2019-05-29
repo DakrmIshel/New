@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTgyNTg0ODk1NDk5NjY1NDA4.XO5I7g.NCdy7DE9SRGRkz9FpmmEBOrjKR0
+owner=457203430193102862
+prefix=$
+game= >> Comeing Soon! << New Custom Bot
 stayinchannel=true
 songinstatus=true
